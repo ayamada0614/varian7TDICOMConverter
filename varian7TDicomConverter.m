@@ -4,7 +4,7 @@ function varian7TDicomConverter(dcmFileName, numberOfGradient)
 % Scripted by Atsushi Yamada, PhD
 % Assistant Professor
 % Bio Medical Innovation Center and Department of Surgery
-% Shiga University of Medical Science
+% Shiga University of Medical Science 
 %
 % ************ Notification for Diffusion Toolkit *************
 % check 'Apply Spline Filter'
